@@ -26,3 +26,9 @@ E-Commerce Animated Order Button-
 spotify -
 ![image](https://github.com/kaazif/Button-Animations/assets/73253420/bcfc36af-17c0-4f5d-8368-0ccf4c1490d9)
 
+color selector:
+![image](https://github.com/kaazif/Button-Animations/assets/73253420/19c7dab1-3721-4a29-997b-a713de94ddb5)
+![image](https://github.com/kaazif/Button-Animations/assets/73253420/f39aea43-7f96-4145-91c6-79eda2aa26ab)
+![image](https://github.com/kaazif/Button-Animations/assets/73253420/cd22a087-a295-4efe-9063-4f96f7f3b7e8)
+
+
